@@ -43,7 +43,7 @@ for i in range(0, 10):
     sum1 += fibb(a[i])
 
 print (sum1)
-print "yo we good"
+print "this thing running?"
 #print(fibb(7))
 #parents, babies = (1, 1)
 #while babies < 1000:
